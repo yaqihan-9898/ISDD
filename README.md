@@ -1,6 +1,6 @@
 # Infrared Ship Detection Dataset (ISDD)
 
-Our paper **"Knowledge-Driven Deep Network for Infrared Ship Detection under Complex Ocean Environment"** is under review, and we decide to public our dataset in advance.
+Our paper **"KCPNet: Knowledge-Driven Context Perception Network for Infrared Ship Detection under Complex Ocean Environment"** is under review, and we decide to public our dataset in advance.
 
 I. Introduction
 --
